@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Delete PHP MySQL</title>
+        <title>Delete PdHP MySQL</title>
         <link rel="stylesheet" type="text/css" href="style.css">
       
         <link rel="stylesheet" href="fontawesome/css/all.css" />
